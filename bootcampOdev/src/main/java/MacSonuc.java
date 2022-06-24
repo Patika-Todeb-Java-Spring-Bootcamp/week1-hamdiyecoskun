@@ -11,7 +11,7 @@ public class MacSonuc implements Serializable {
     public String getMacSonuc() {
         return macSonuc;
     }
-    public void setTakım(String macSonuc) {
+    public void setMacSonuc(String macSonuc) {
         this.macSonuc = macSonuc;
     }
 }
